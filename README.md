@@ -1,6 +1,6 @@
 # Apache Docker App
 
-This is a simple Docker project that sets up an Apache web server.
+This Dockerized Apache web server is designed for hosting static websites with ease and scalability.
 
 ## How to Use
 
